@@ -1,0 +1,6 @@
+C:\Users\Joakim\Documents\Skola\Spelutveckling\OOSP\Examinationsuppgift\Examination 2 - Battleship\Battleships\Battleships\Battleships\bin\x86\Release\Content\Images\battleship_sheet.xnb
+C:\Users\Joakim\Documents\Skola\Spelutveckling\OOSP\Examinationsuppgift\Examination 2 - Battleship\Battleships\Battleships\Battleships\bin\x86\Release\Battleships.exe
+C:\Users\Joakim\Documents\Skola\Spelutveckling\OOSP\Examinationsuppgift\Examination 2 - Battleship\Battleships\Battleships\Battleships\bin\x86\Release\Battleships.pdb
+C:\Users\Joakim\Documents\Skola\Spelutveckling\OOSP\Examinationsuppgift\Examination 2 - Battleship\Battleships\Battleships\Battleships\obj\x86\Release\Microsoft.Xna.Framework.RuntimeProfile.txt
+C:\Users\Joakim\Documents\Skola\Spelutveckling\OOSP\Examinationsuppgift\Examination 2 - Battleship\Battleships\Battleships\Battleships\obj\x86\Release\Battleships.exe
+C:\Users\Joakim\Documents\Skola\Spelutveckling\OOSP\Examinationsuppgift\Examination 2 - Battleship\Battleships\Battleships\Battleships\obj\x86\Release\Battleships.pdb
